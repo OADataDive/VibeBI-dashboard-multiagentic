@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+*.duckdb
+*.db
+.DS_Store
+.idea/
+zipFile.zip
+.venv/
+venv/
+*.data/
+data/
+
